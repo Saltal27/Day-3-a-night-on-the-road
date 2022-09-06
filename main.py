@@ -19,7 +19,7 @@ print('''⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣤⣤⣤⣤⣄⣀⡀⠀⠀⠀�
 ''')
 
 print("Welcome to 'A night on the road'!")
-input("Press any key to start the game.")
+input("Press Enter to start the game.")
 input(
     "It's a closed night.\nA lovely couple travels by car in a lonely road.\nThe copilot sleeps."
 )
